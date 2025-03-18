@@ -3,10 +3,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-/* Generics */
-*{
     font-family: Arial, sans-serif;
 }
 
@@ -47,6 +43,10 @@ h2{
     border-radius: 30px;
     margin: 0 10px;
 }
+.triangles{
+    font-size: 35px;
+}
+
 /* Header */
 h1{
     display: inline;
